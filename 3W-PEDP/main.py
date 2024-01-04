@@ -240,7 +240,7 @@ def assign_no_group(unAssign, label, dists, centerNum, kVal):
 if __name__ == "__main__":
     start_time = time.time()
     # 数据集名称
-    dataset_name = 'wine'
+    dataset_name = 'spiral'
     # 聚类个数
     centerNum = 3
     # 标签, 数据
