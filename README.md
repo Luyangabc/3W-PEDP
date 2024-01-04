@@ -2,8 +2,17 @@
 Three-way evidence theory-based density peak clustering with the principle of justifiable granularity(基于合理粒度的三支证据密度峰值聚类算法).
 # Running Code
 The code for 3W-PEDP is in main.py.
+````
+# change dataset in dataset_name
+# 数据集名称
+dataset_name = 'spiral'
 
-change cluster number in centerNum，change dataset in dataset_name， and then just click Run Button.
+# change cluster number in centerNum
+# 聚类个数
+centerNum = 3
+````
+
+and then just click Run Button.
 
 # Citing
 
