@@ -15,6 +15,7 @@ centerNum = 3
 and then just click Run Button.
 
 # Citing
+At present, only the proof version is available. Please provide complete information for future references
 
 When using the code in your research work, please cite "Three-way evidence theory-based density peak clustering with the principle of justifiable granularity".
 ````
@@ -29,6 +30,3 @@ url = {https://www.sciencedirect.com/science/article/pii/S1568494623012358},
 author = {Hengrong Ju and Yang Lu and Weiping Ding and Jinxin Cao and Xibei Yang},
 }
 ````
-
-# Acknowledgements
-The authors would like to express the sincere appreciation to the editor and anonymous reviewers for their insightful comments, which greatly improve the quality of this paper. This work is supported by the National Natural Science Foundation of China (Nos. 62006128, 61976120, 62076111), Natural Science Key Foundation of Jiangsu Education Department (No. 21KJA510004), Jiangsu Doctor Program of Entrepreneurship and Innovation (No. (2020) 30986).
