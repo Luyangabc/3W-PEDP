@@ -23,7 +23,7 @@ When using the code in your research work, please cite "Three-way evidence theor
 title = {Three-way evidence theory-based density peak clustering with the principle of justifiable granularity},
 journal = {Applied Soft Computing},
 pages = {111217},
-year = {2023},
+year = {2024},
 issn = {1568-4946},
 doi = {https://doi.org/10.1016/j.asoc.2023.111217},
 url = {https://www.sciencedirect.com/science/article/pii/S1568494623012358},
